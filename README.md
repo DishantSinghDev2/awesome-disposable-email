@@ -15,7 +15,8 @@
 - [Fake Mail Generator](https://www.fakemailgenerator.com) - Free; Storage: 24 hours; Features: multiple domains. ([de](https://www.wegwerfemailadresse.com), [fr](https://www.adresseemailtemporaire.com), [es](https://www.emailtemporalgratis.com), [it](https://www.emailtemporanea.org))
 - [Hour.email](https://hour.email) - Free; Storage: 1 hour.
 - [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
-- [Maildrop](https://maildrop.cc) - Free. 
+- [Maildrop](https://maildrop.cc) - Free.
+- [FreeCustom.Email](https://www.freecustom.email) - Free; Storage - 10 hours; Features: multiple domains, Ad-free, Fastest loading speeds, No limits;
 
 ### Open Source Software
 
